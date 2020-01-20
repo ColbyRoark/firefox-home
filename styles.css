@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 :root {
-  --bg: #344055;
+  --bg: #1c2028;
   --fg: #ffffff;
   --secondaryFg: #b3b3b3;
-  --containerBg: #232c3e;
+  --containerBg: #161a21;
   --searchBg: var(--containerBg);
   --scrollbarColor: #344055;
 }
