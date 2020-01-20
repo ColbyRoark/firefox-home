@@ -2,7 +2,7 @@
 
 <html lang="en">
 <head>
-  
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -31,6 +31,7 @@
                     <a class="bookmark" href="https://mail.google.com/" target="_blank">Mail</a>
                     <a class="bookmark" href="https://dribbble.com/shots" target="_blank">Dribbble</a>
                     <a class="bookmark" href="https://account.squarespace.com/" target="_blank">Squarespace</a>
+                    <a class="bookmark" href="https://www.deviantart.com/" target="_blank">DeviantArt</a>
                 </div>
             </div>
             <div class="bookmark-set">
