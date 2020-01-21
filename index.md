@@ -86,7 +86,7 @@
             let xhr = new XMLHttpRequest();
             // Request to open weather map
             xhr.open('GET', 'http://api.openweathermap.org/data/2.5/weather?id=4737316&units=imperial&appid=e5b292ae2f9dae5f29e11499c2d82ece');
-            xhr.onload = () => {
+            xhr.onload = (801) => {
                 if (xhr.readyState === 4) {
                     if (xhr.status === 200) {
                         let json = JSON.parse(xhr.responseText);
