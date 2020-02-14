@@ -10,8 +10,10 @@
 }
 
 body {
-  background-color: var(--bg);
-  margin: 0px;
+  background-image: url("keyboards-dark.jpg");
+background-size: cover;
+/* background: #1D1F28; */
+margin: 0px;
 }
 
 .container {
