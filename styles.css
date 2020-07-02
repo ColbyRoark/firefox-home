@@ -2,15 +2,15 @@
 
 :root {
   --bg: #1c2028;
-  --fg: #ffffff;
+  --fg: #1e2541;
   --secondaryFg: #b3b3b3;
-  --containerBg: #161a21;
+  --containerBg: #ffffff;
   --searchBg: var(--containerBg);
-  --scrollbarColor: #1c2028;
+  --scrollbarColor: #1e2541;
 }
 
 body {
-  background-image: url("bg-blue.jpg");
+  background-image: url("manta.jpg");
 background-size: cover;
 /* background: #1D1F28; */
 margin: 0px;
