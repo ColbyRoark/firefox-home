@@ -30,7 +30,7 @@ margin: 0px;
   font-size: 3.5rem;
   font-weight: 600;
   font-family: 'Roboto Mono';
-  color: var(--fg);
+  color: var(--containerBg);
   margin-bottom: 0.25em;
 }
 
